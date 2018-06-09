@@ -1,0 +1,13 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+02-24CA-011-010628FBA01	X001CHS9W7	B0794NWY31	Intimate Melody®NINA Silicone Kegel Balls -Kegel Exercise Kit - Kegel Exerciser, Pelvic Floor Weight Set, Control Training and Pelvic Floor Exercises, 2 pack,Best Adult Toy	New	39.99	No		Yes	12	12	0	0	12	599.77	0	0	0
+02-25CA-011-011200FBA05	X001CI0M71	B06XD7YNWJ	Intimate Melody Kegel Exercise Weights - Ben Wa Ball Weights, Bladder Control & Pelvic Floor Exercises with Medical Silicone for Women	New	35.99	No		Yes	21	16	0	5	21	966.02	0	0	0
+57CA-7231FC01-433	X000OHTEED	B01IEW1CYI	MelodySusie® Brown Short Straight Wig - High Quality Attractive Women Short Straight Wig with Free Wig Cap and Wig Comb (Inclined Bangs)	New	22.99	No		Yes	0	0	0	0	0	1907.13	0	0	0
+66CA-0013LM01-623	X000RU7TUD	B00X9SNTL2	2 Pack Intimate Melody Female g spot vibration massager multi speed vibration rechargeable female sexual toys noiseless vibrates for women g spot female sexual tools	New	149.99	Yes	0	No	0	0	0	0	0		0	0	0
+66CA-0014FC-603031802	X000ZEXAVN	B01D4LIZ5I	Intimate Melody Powerful Vibrator Massager 10 vibrations for Women Waterproof Masturbation Intimate Massager Rechargeable Adult Toys G-Spot Stimulate for Couples, Rose	New	55.99	Yes	0	No	0	0	0	0	0		0	0	0
+66CA-0014LM03-603	X000U8SFQJ	B014KKE9BQ	Intimate Melody Rechargeable Waterproof Multi Mode Vibe G spot stimulation for Women Toys	New	79.99	Yes	0	No	0	0	0	0	0		0	0	0
+66CA-0016LA01-603	X000S675EV	B00Y2DL1WW		Unknown					0	0	0	0	0		0	0	0
+66CA-0016LM02-603	X000RV23DF	B00XC30WRI		Unknown					0	0	0	0	0		0	0	0
+66CA-0023FM01-605120401	X000WVJ1UX	B015GSZRBC		Unknown					0	0	0	0	0		0	0	0
+66FM-0023FBA02CA-605888C	X001CGGY89	B01CCIQP6A	Intimate Melody® LAVA 3 in 1 G Spot Vibrator with Vibe Bullet,Rechargeable Sex Massager Powerful Stimulation Dildo, 7 Vibration Adult Toy	New	69.99	No		Yes	13	13	0	0	13	1855.02	0	0	0
+66FM-0033FBA03CA-605888C	X001CGH36B	B01GFU0OF4	Intimate Melody® LANA 3 In 1 Silicone Bullets Waterproof 7 Modes Vibrating Egg with 3 Different Shapes G-spot Clit Stimulator Massager Love Eggs Sex Toy for Female	New	68.99	No		Yes	23	23	0	0	23	1979.07	0	0	0
+8986-11.missing	X000PX0Y95	B00DU83CJU		Unknown					0	0	0	0	0		0	0	0
