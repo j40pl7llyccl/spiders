@@ -3,7 +3,7 @@ certifi==2018.4.16
 chardet==3.0.4
 future==0.16.0
 idna==2.6
-Jinja2==2.10
+Jinja2==2.11.3
 lxml==4.2.1
 macholib==1.9
 MarkupSafe==1.0
